@@ -22,7 +22,7 @@ namespace Warhous_II
     {
         public MainWindow()
         {
-            InitializeComponent();
+            
         }
     }
 }
